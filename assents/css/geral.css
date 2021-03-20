@@ -4,9 +4,11 @@ body{
 }
 
 .conteudo-principal{
-    background: #cacaca;
+    background: #ffffff;
     width: 80%;
     margin: 0 auto;
 }
 
-/* cacaca
+h2{
+    font-family: 'Righteous', cursive;
+}
