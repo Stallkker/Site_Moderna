@@ -1,0 +1,47 @@
+.footer{
+    display: flex;
+    background: #691bbd;
+    width: 80%;
+    height: 6em;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*.caixa-log-email{
+    display: flex;
+    justify-content: space-between;
+
+}
+*/
+.logo-footer{
+    width: 13em;
+    height: 5em;
+    margin: 0 0 0 0;
+}
+
+.caixa-email{
+    display: flex;
+}
+
+.email-img{
+    width: 1.8em;
+    height: 2.2em;
+}
+
+.email{
+    font-size: 1.5em;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.redes-socias{
+    display: flex;
+}
+
+.linkedin{
+    width: 3em;
+}
+
+.github{
+    width: 3em;
+}

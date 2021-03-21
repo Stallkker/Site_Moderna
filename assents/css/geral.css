@@ -1,12 +1,11 @@
 body{
     max-width: 1200px;
     background: #242424;
+    font-family: 'Montserrat', sans-serif;
 }
 
-.conteudo-principal{
-    background: #ffffff;
-    width: 80%;
-    margin: 0 auto;
+h1{
+    font-family: 'Bebas Neue', cursive;
 }
 
 h2{

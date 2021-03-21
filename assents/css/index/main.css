@@ -33,6 +33,10 @@
     font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: column;
+    background: #ffffff;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 0 4em;
 }
 
 .sub-titulos{
@@ -124,6 +128,7 @@
 .texto-icone{
     width: 50%;
     font-size: 1em;
+    line-height: 1.3em;
 }
 
 
