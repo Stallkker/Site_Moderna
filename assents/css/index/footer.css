@@ -1,3 +1,7 @@
+/*
+    geral
+*/
+
 .footer{
     display: flex;
     background: #691bbd;
@@ -8,17 +12,23 @@
     align-items: center;
 }
 
-/*.caixa-log-email{
-    display: flex;
-    justify-content: space-between;
 
-}
+
+/*
+    logo
 */
+
 .logo-footer{
     width: 13em;
     height: 5em;
     margin: 0 0 0 0;
 }
+
+
+
+/*
+    caixa -> img e endereço
+*/
 
 .caixa-email{
     display: flex;
@@ -33,6 +43,12 @@
     font-size: 1.5em;
     font-family: 'Bebas Neue', cursive;
 }
+
+
+
+/*
+    redes sociais -> linkedin / github
+*/
 
 .redes-socias{
     display: flex;
